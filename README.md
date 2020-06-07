@@ -1,6 +1,16 @@
 # Manjaro_For_Hackers
 A simple bash script to install most used penetration testing and hacking tools on Manjaro Linux.
 
+**Tools Included:**
+
+1. Nmap
+2. Metasploit
+3. Wireshark
+4. wifite2
+5. aircrack-ng
+6. OWASP ZAP (Zed Attack Proxy)
+7. Burpsuite 
+
 Please make sure **AUR (ARCH User Repositry)** is enabled on your system.
 
 **Note1:** You will need to setup Metasploit database manually.
@@ -22,6 +32,10 @@ OR
 Run Wifite using following command
 >sudo wifite2
 
-ScreenCapture:
+**ScreenCapture:**
 
 ![ScriptInAction](https://github.com/Ashutosh-Kukreti/Manjaro_For_Hackers/blob/master/ScriptInAction.gif)
+
+Type **Y** in the end to install wifite2 and burpsuite and **N** if you don't want to.
+
+I don't have much programming knowledge but if you have any suggestions for the script please feel free to share.
