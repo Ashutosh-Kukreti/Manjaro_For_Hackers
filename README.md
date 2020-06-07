@@ -1,2 +1,27 @@
 # Manjaro_For_Hackers
 A simple bash script to install most used penetration testing and hacking tools on Manjaro Linux.
+
+Please make sure **AUR (ARCH User Repositry)** is enabled on your system.
+
+**Note1:** You will need to setup Metasploit database manually.
+
+Visit ![this link](https://cybsploit.com/2020/04/20/how-to-install-metasploit-5-and-armitage-on-arch-linux-YmNkZ0RrTU56QTVkQ0RnN1pIaFNIUT09) to learn how to setup Metasploit database on Manajro linux.
+
+**Note2:** Neither I'm the creater nor the maintainer of these tools.
+
+Download the **![Manjaro4_hackers.sh](https://github.com/Ashutosh-Kukreti/Manjaro_For_Hackers/releases)** file. You can run the script using following commands:
+
+>./Manjaro4_hackers.sh
+
+**Note:** To use this command script should have exceutable permissions.
+
+OR
+
+>bash Manjaro4_hackers.sh
+
+Run Wifite using following command
+>sudo wifite2
+
+ScreenCapture:
+
+![ScriptInAction](https://github.com/Ashutosh-Kukreti/Manjaro_For_Hackers/blob/master/ScriptInAction.gif)
