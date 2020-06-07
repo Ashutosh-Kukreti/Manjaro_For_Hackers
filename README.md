@@ -15,7 +15,7 @@ Please make sure **AUR (ARCH User Repositry)** is enabled on your system.
 
 **Note1:** You will need to setup Metasploit database manually.
 
-Visit ![this link](https://cybsploit.com/2020/04/20/how-to-install-metasploit-5-and-armitage-on-arch-linux-YmNkZ0RrTU56QTVkQ0RnN1pIaFNIUT09) to learn how to setup Metasploit database on Manajro linux.
+Visit [this link](https://cybsploit.com/2020/04/20/how-to-install-metasploit-5-and-armitage-on-arch-linux-YmNkZ0RrTU56QTVkQ0RnN1pIaFNIUT09) to learn how to setup Metasploit database on Manajro linux.
 
 **Note2:** Neither I'm the creater nor the maintainer of these tools.
 
