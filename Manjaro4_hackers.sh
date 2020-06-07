@@ -35,7 +35,7 @@ echo -e "$(tput setaf 7)\nVisit the following link to learn how to setup Metaspl
 echo -e "\n$(tput setaf 1)Installing following tools from AUR(ARCH User Repo):\n$(tput setaf 7)wifite2 burpsuite$(tput sgr 0)\n"
 #read -p is used to take input from the use in variable called 'var'
 read -p 'Do you want to continue with the installation [Y/N] : ' var
-# Below is an if else check so that if the user enter 'Y' then programs shouldl be installed
+# Below is an if else check so that if the user enter 'Y' then programs should be installed
 if [ "$var" = "Y" ]
 then
 pamac install wifite2-git
