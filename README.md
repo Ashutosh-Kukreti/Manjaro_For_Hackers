@@ -13,7 +13,9 @@ A simple bash script to install most used penetration testing and hacking tools 
 
 Please make sure **AUR (ARCH User Repositry)** is enabled on your system.
 
-**Note1:** You will need to setup Metasploit database manually.
+**UPDATE:** Now the script will setup and configure Metasploit database automatically.
+
+**Note1:** You will need to setup Metasploit database manually if the script does not work.
 
 Visit [this link](https://cybsploit.com/2020/04/20/how-to-install-metasploit-5-and-armitage-on-arch-linux-YmNkZ0RrTU56QTVkQ0RnN1pIaFNIUT09) to learn how to setup Metasploit database on Manajro linux.
 
