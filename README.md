@@ -14,6 +14,7 @@ A simple bash script to install most used penetration testing and hacking tools 
 Please make sure **AUR (ARCH User Repositry)** is enabled on your system.
 
 **UPDATE:** Now the script will setup and configure Metasploit database automatically.
+**Use Internet to troubleshoot the errors.**
 
 **Note1:** You will need to setup Metasploit database manually if the script does not work.
 
