@@ -14,7 +14,7 @@ A simple bash script to install most used penetration testing and hacking tools 
 Please make sure **AUR (ARCH User Repositry)** is enabled on your system.
 
 **UPDATE:** Now the script will setup and configure Metasploit database automatically.
-**Use Internet to troubleshoot the errors.**
+**Use Internet to troubleshoot the errors, if any.**
 
 **Note1:** You will need to setup Metasploit database manually if the script does not work.
 
@@ -37,8 +37,9 @@ Run Wifite using following command
 
 **ScreenCapture:**
 
-![ScriptInAction](https://github.com/Ashutosh-Kukreti/Manjaro_For_Hackers/blob/master/ScriptInAction.gif)
+![ScriptInAction](https://github.com/Ashutosh-Kukreti/Manjaro_For_Hackers/blob/master/ScriptInAction2.gif)
 
-Type **Y** in the end to install wifite2 and burpsuite and **N** if you don't want to.
+I've already installed all the apps that's why I chose **no** everywhere.
+Instead of Yes/No - Y,y or N,n is also acceptable
 
 I don't have much programming knowledge but if you have any suggestions for the script please feel free to share.
