@@ -40,6 +40,7 @@ Run Wifite using following command
 ![ScriptInAction](https://github.com/Ashutosh-Kukreti/Manjaro_For_Hackers/blob/master/ScriptInAction2.gif)
 
 I've already installed all the apps that's why I chose **no** everywhere.
-Instead of Yes/No - Y,y or N,n is also acceptable
+
+Instead of **Yes/No - Y,y or N,n** is also acceptable.
 
 I don't have much programming knowledge but if you have any suggestions for the script please feel free to share.
